@@ -10,6 +10,20 @@ The GPT is knowledgeable in the field of automotive diagnostics and can explain 
 
 In addition, the GPT guides users through the diagnostic process in a step-by-step manner, often asking multiple-choice questions to clarify inputs or refine the diagnosis. This interactive approach ensures that users receive accurate and relevant information, helping them to troubleshoot vehicle issues effectively. The GPT's focus is on delivering precise, straightforward information without unnecessary elaboration, making it a useful tool for both beginners and experienced users in automotive diagnostics.
 
+<br>
+
+```
+OBD2 Terminal - Ready
+
+Please select the vehicle you would like to simulate:
+1. 2015 Toyota Corolla
+2. 2018 Ford F-150
+3. 2020 Honda Civic
+4. 2022 BMW 3 Series
+
+Enter the number corresponding to your choice:
+```
+
 #
 ### Related Links
 
