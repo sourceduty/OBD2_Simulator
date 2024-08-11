@@ -16,6 +16,7 @@ In addition, the GPT guides users through the diagnostic process in a step-by-st
 OBD2 Terminal - Ready
 
 Please select the vehicle you would like to simulate:
+
 1. 2015 Toyota Corolla
 2. 2018 Ford F-150
 3. 2020 Honda Civic
