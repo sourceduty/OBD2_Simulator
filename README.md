@@ -1,4 +1,4 @@
-![OBD2](https://github.com/user-attachments/assets/b5ebb72b-3a87-4da4-9123-d292b9308037)
+![OBD2](https://github.com/user-attachments/assets/d20275df-9059-46dc-ba4a-09339e20da94)
 
 > On-Board Diagnostic II (OBD2) terminal simulator.
 
